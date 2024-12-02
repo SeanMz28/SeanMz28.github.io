@@ -10,6 +10,6 @@ render_with_liquid: false
 
 ### Eddy Gordo
 
-|                 Move                 |                               | Frame Data |
-| :----------------------------------: | :---------------------------: | :--------: |
-| ![\|100x50](./../media/eddy/df3.png) | ![](./../media/eddy/eddy.mp4) |  **-18**   |
+|                 Move                 |                                                                                                                                             | Frame Data |
+| :----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+| ![\|100x50](./../media/eddy/df3.png) | <iframe src="https://drive.google.com/file/d/1fimEGvdAcv59m6dPFaOzcR2JtbHF4fPv/preview" width="640" height="480" allow="autoplay"></iframe> |  **-18**   |
