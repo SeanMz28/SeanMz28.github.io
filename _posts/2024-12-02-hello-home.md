@@ -8,11 +8,8 @@ render_with_liquid: false
 ---
 
 
-### Hey Wassup
+### Eddy Gordo
 
-1. **Greedy Choice Property**
-   - Local optimal choices should lead to a global optimal solution
-   - Each decision must be:
-     * Locally optimal
-     * Feasible
-     * Irrevocable
+|                 Move                 |                               | Frame Data |
+| :----------------------------------: | :---------------------------: | :--------: |
+| ![\|100x50](./../media/eddy/df3.png) | ![](./../media/eddy/eddy.mp4) |  **-18**   |
